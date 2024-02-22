@@ -41,3 +41,8 @@ Use the Expo Go app on your iOS or Android device to scan the QR code from the E
 Install the Expo Go app on your iOS or Android device from the respective app store.
 Make sure your device is connected to the same network as your development machine.
 Open the Expo Go app and scan the QR code from the Expo DevTools to open your app on your device.
+
+
+### 5. Troubleshooting:
+If you encounter any issues during setup or running the app, refer to the Expo documentation or community forums for assistance.
+
